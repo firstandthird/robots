@@ -1,0 +1,23 @@
+{
+  "name": "@firstandthird/robots",
+  "version": "1.0.0",
+  "description": "robots.txt text generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "keywords": [
+    "robots.txt"
+  ],
+  "author": "First+Third",
+  "license": "MIT",
+  "eslintConfig": {
+    "extends": "firstandthird"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-firstandthird": "^4.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "tap": "^14.8.2"
+  }
+}
